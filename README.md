@@ -1,6 +1,6 @@
-### Hi, I'm Elisabeth!
+### Hi, I'm Elisabeth! (she/her)
 
-I'm currently re-learning about coding and design after almost 8 years away. Slowly starting to get the hang of this GitHub thing! 
+I'm currently back at school re-learning about coding and design after a pretty long break. (Still) attempting to get the hang of this GitHub thing! (I'm mostly using it to display the sites I'm working on, but I'm sure as I get into more actual programming, I will want to get better at all of GitHub-ing.)
 
 <!--
 **elisabethkaseda/elisabethkaseda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
